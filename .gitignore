@@ -8,7 +8,7 @@
 /node_modules
 /bower_components
 
-# misc
+# miscs
 /.sass-cache
 /connect.lock
 /coverage/*
